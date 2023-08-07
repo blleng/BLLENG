@@ -4,4 +4,6 @@
 
 ☝ I'm Leng, a student from China.
 
-- 🔭 I’m currently working on [Hexo-Theme-Lx](https://github.com/blleng/hexo-theme-lx)
+- 🔭 [Hexo-Theme-Lx](https://github.com/blleng/hexo-theme-lx)
+- 📖 [Sanskrit](https://github.com/blleng/sanskrit)
+- 📃 [Notebook](https://github.com/blleng/Notebook)
