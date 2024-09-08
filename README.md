@@ -2,8 +2,5 @@
 
 ### Hi there 👋
 
-☝ I'm Leng, a student from China.
-
 - 🔭 [Hexo-Theme-Lx](https://github.com/blleng/hexo-theme-lx)
-- 📖 [Sanskrit](https://github.com/blleng/sanskrit)
-- 📃 [Notebook](https://github.com/blleng/Notebook)
+- 📃 [Convert-EMD](https://github.com/blleng/convert-emd)
